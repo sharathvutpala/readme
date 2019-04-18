@@ -1,6 +1,6 @@
 # Shararth's README
  
-I am aware of readme for a project but this is the first time i heard about readme of a person. I was introduced to this concept by my Brother && Guide && Mentor && Manager. I hope this is an opportunity for you to know about me in workplace and in general. 
+I am aware of readme for a project but this is the first time i heard about readme of a person. I was introduced to this concept by my Brother/Guide/Mentor/Manager. I hope this is an opportunity for you to know about me in workplace and in general. 
 
 ### Me in Workplace
 * Equally comfortable working as a member of a team and independently
