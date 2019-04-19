@@ -9,10 +9,10 @@ I am aware of readme for a project but this is the first time i am writing a rea
 * Always find a way to make things happen
 * If i am stuck at something, can't concentrate on other things until it is done
 * Hate being micromanaged
-* Shy in the beginning
+* Optimistic
 * Honest; don't afraid to say "I Don't Know"
 * Like to get mentored
-* procrastinate sometimes
+
  
 
 ### Feedback
