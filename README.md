@@ -1,6 +1,6 @@
 # Shararth's README
  
-I am aware of readme for a project but this is the first time i heard about readme of a person. I was introduced to this concept by my Brother/Guide/Mentor/Manager. I hope this is an opportunity for you to know about me in workplace and in general. 
+I am aware of readme for a project but this is the first time i am writing a readme of a person. I hope this is an opportunity for you to know about me in workplace. 
 
 ### Me in Workplace
 * Equally comfortable working as a member of a team and independently
@@ -11,8 +11,9 @@ I am aware of readme for a project but this is the first time i heard about read
 * Hate being micromanaged
 * Shy in the beginning
 * Honest; don't afraid to say "I Don't Know"
+* Like to get mentored
 * procrastinate sometimes
-* Like listening to music while work 
+ 
 
 ### Feedback
 * Always ready to hear from you and improve myself
