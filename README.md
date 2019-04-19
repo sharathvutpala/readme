@@ -2,7 +2,7 @@
  
 I am aware of readme for a project but this is the first time i am writing a readme of a person. I hope this is an opportunity for you to know about me in workplace. 
 
-### Me in Workplace
+### As a Contributor
 * Equally comfortable working as a member of a team and independently
 * Quick learner
 * Adaptable 
